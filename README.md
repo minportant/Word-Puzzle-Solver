@@ -1,2 +1,2 @@
-# Word-Puzzle-Solver
-Word-puzzle solver using C++
+# Word Puzzle Solver
+Word puzzle solver using C++
